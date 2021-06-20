@@ -1,3 +1,37 @@
+/*
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+AUTHOR : Vijayan PP
+PROJECT : Nim-MUTLIT PURPOSE LANDING PAGE TEMPLATE
+VERSION : 1.1
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+*/
+
+
+
+/*++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	INDEX
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	1> IMPORT FONTS
+	2> RESET
+	3> GENERAL
+        4> TYPOGRAPHY
+        5> BUTTON
+        6> PRELOADER
+	7> NAVIGATION
+        8> MAIN HEADER
+        9> ABOUT US
+       10> OUR WORKS
+       11> OUR TEAM
+       12> INSPIRATION
+       13> TESTIMONIAL
+       14> OUR STATS      
+       15> SERVICES
+       16> CONTACT US
+       17> SITE-FOOTER
+       18> ANIMATION
+
+       
+-------------------------------------------------------*/
 
 
 
@@ -34,10 +68,10 @@ body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,fieldset,p,blockquote,hr,t
 	GENERAL
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
 body {
-	color: white;
+	color: #fff;
 	font: normal 16px "Roboto", "Helvetica Neue", Helvetica, Arial, sans-serif;
 	font-weight: 300;
-	background-color:rgb(68, 68, 68);
+	background-color: #000;
 	overflow-x: hidden;
 	line-height: 1.5;
         font-family: 'Lato', sans-serif;
@@ -922,3 +956,4 @@ font-family: 'Roboto Slab', serif;
     50.01% { opacity: 0; }
     100% { opacity: 0; }
 }
+
