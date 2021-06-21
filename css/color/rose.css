@@ -9,12 +9,12 @@ VERSION : 1.1
 
 .themecolor
 {
-    color:#FF0000;/*Defines the theme color*/
+    color:#0084ff;/*Defines the theme color*/
 }
 
 .theme_background_color,#downloadbt:hover
 {
-    background-color:#FF0000; /*Defines the theme bakcground color*/
+    background-color:#0084ff; /*Defines the theme bakcground color*/
 }
 
 .borderColor
@@ -23,20 +23,20 @@ VERSION : 1.1
 }
 .nim-menu.navbar-default .navbar-nav > li > a:hover
  {
-color:#FF0000;
+color:#0084ff;
 }
 .social li a:hover
 {
-    color:#FF0000;
+    color:#0084ff;
 }
 .sub-footer
 {
-    border-top-color:#FF0000;
+    border-top-color:#0084ff;
 }
 
 .work-desc
 {
-    background:#FF0000;
+    background:#0084ff;
 }
 .work-desc h3
 {
@@ -74,7 +74,7 @@ color:#FF0000;
 
 .sectionTitle hr
 {
-  border-color:#FF0000; 
+  border-color:#0084ff; 
 }
 
 .sectionTitle .line{
@@ -86,25 +86,25 @@ color:#FF0000;
     border-color:#dbdbdb;
 }
 
-ol.type li a:hover{ color:#FF0000;}
+ol.type li a:hover{ color:#0084ff;}
 
 .ramsh-menu.navbar-default .navbar-nav > li > a:hover,a.fa.fa-angle-down:hover,.navbar-default .navbar-nav > .active > a,.navbar-default .navbar-nav > .active > a:hover, 
 .navbar-default .navbar-nav > .active > a:focus
 {
-    color:#FF0000;
+    color:#0084ff;
 }
 
 .navbar-toggle
 {
  
- color:#FF0000;
+ color:#0084ff;
 }
 
 .owl-theme .owl-controls .owl-page.active span, 
 .owl-theme .owl-controls.clickable .owl-page:hover span,#contactbtn:hover {
 	
-	background:#FF0000;
+	background:#0084ff;
 }
 .owl-theme .owl-controls .owl-page.active span{
-	background:#FF0000;
+	background:#0084ff;
 }
